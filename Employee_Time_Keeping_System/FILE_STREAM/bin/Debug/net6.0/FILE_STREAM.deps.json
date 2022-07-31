@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FILE_STREAM/1.0.0": {
+        "runtime": {
+          "FILE_STREAM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FILE_STREAM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

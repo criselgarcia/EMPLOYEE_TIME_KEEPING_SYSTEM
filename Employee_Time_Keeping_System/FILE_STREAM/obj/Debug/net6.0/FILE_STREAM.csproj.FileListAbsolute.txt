@@ -1,0 +1,12 @@
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\FILE_STREAM\bin\Debug\net6.0\FILE_STREAM.deps.json
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\FILE_STREAM\bin\Debug\net6.0\FILE_STREAM.dll
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\FILE_STREAM\bin\Debug\net6.0\FILE_STREAM.pdb
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\FILE_STREAM\obj\Debug\net6.0\FILE_STREAM.csproj.AssemblyReference.cache
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\FILE_STREAM\obj\Debug\net6.0\FILE_STREAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\FILE_STREAM\obj\Debug\net6.0\FILE_STREAM.AssemblyInfoInputs.cache
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\FILE_STREAM\obj\Debug\net6.0\FILE_STREAM.AssemblyInfo.cs
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\FILE_STREAM\obj\Debug\net6.0\FILE_STREAM.csproj.CoreCompileInputs.cache
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\FILE_STREAM\obj\Debug\net6.0\FILE_STREAM.dll
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\FILE_STREAM\obj\Debug\net6.0\refint\FILE_STREAM.dll
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\FILE_STREAM\obj\Debug\net6.0\FILE_STREAM.pdb
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\FILE_STREAM\obj\Debug\net6.0\ref\FILE_STREAM.dll

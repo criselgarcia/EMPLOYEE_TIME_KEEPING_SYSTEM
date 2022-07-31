@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Employee_Time_Keeping_System/1.0.0": {
+        "dependencies": {
+          "FILE_STREAM": "1.0.0",
+          "UI_Validation": "1.0.0"
+        },
+        "runtime": {
+          "Employee_Time_Keeping_System.dll": {}
+        }
+      },
+      "FILE_STREAM/1.0.0": {
+        "runtime": {
+          "FILE_STREAM.dll": {}
+        }
+      },
+      "UI_Validation/1.0.0": {
+        "runtime": {
+          "UI_Validation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Employee_Time_Keeping_System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FILE_STREAM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UI_Validation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

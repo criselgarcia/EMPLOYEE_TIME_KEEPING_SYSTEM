@@ -1,0 +1,12 @@
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\UI_Validation\bin\Debug\net6.0\UI_Validation.deps.json
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\UI_Validation\bin\Debug\net6.0\UI_Validation.dll
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\UI_Validation\bin\Debug\net6.0\UI_Validation.pdb
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\UI_Validation\obj\Debug\net6.0\UI_Validation.csproj.AssemblyReference.cache
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\UI_Validation\obj\Debug\net6.0\UI_Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\UI_Validation\obj\Debug\net6.0\UI_Validation.AssemblyInfoInputs.cache
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\UI_Validation\obj\Debug\net6.0\UI_Validation.AssemblyInfo.cs
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\UI_Validation\obj\Debug\net6.0\UI_Validation.csproj.CoreCompileInputs.cache
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\UI_Validation\obj\Debug\net6.0\UI_Validation.dll
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\UI_Validation\obj\Debug\net6.0\refint\UI_Validation.dll
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\UI_Validation\obj\Debug\net6.0\UI_Validation.pdb
+C:\Users\annec\source\repos\Employee_Time_Keeping_System\UI_Validation\obj\Debug\net6.0\ref\UI_Validation.dll
